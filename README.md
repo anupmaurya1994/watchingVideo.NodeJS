@@ -8,7 +8,7 @@ A feature-rich video player and streaming built using the MERN stack, JWT for au
 
 
 
-Or watch the demo [here.](https://youtu.be/CJEoNpLgRRw?si=8F2vfGwuBO03jRsH)
+Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 
 
 ## Features
