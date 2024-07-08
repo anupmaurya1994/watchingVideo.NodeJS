@@ -64,4 +64,4 @@ Node Version:
 
 ``18.17.0``
 
-Open your web browser and visit `http://localhost:3000` to access the application.
+Open your web browser and visit `http://localhost:8800` to access the application.
