@@ -54,14 +54,8 @@ Start the server:
 
 ``npm start``
 
+Node Version:
 
-### Client
-Install client dependencies:
-
-``npm install``
-
-Start the client application:
-
-``npm run dev``
+``18.17.0``
 
 Open your web browser and visit `http://localhost:3000` to access the application.
